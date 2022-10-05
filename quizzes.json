@@ -1,0 +1,165 @@
+{
+  "quizzes": {
+    "generalKnowledge": [
+      {
+        "question": "What year did the Titanic sink in the Atlantic Ocean on 15 April, on its maiden voyage from Southampton?",
+        "answer": "1912"
+      },
+      {
+        "question": "What is the title of the first ever Carry On film made and released in 1958?",
+        "answer": "Carry on Sergeant"
+      },
+      {
+        "question": "What is the name of the biggest technology company in South Korea?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "Which singer fronted the 1970s’ pop group Showaddywaddy?",
+        "answer": "Dave Bartram"
+      },
+
+      {
+        "question": "Which now famous TV chef started cooking at the age of eight in his parents’ pub, ‘The Cricketers’, in Clavering, Essex?",
+        "answer": "Jamie Oliver"
+      },
+
+      {
+        "question": "Which Dutch darts player won the 2012 BDO World Championship at the Lakeside Country Club, Frimley Green on 15 January?",
+        "answer": "Christian Kist"
+      },
+      {
+        "question": "Which metal was discovered by Hans Christian Oersted in 1825?",
+        "answer": "Aluminium"
+      },
+
+      { "question": "What is the capital of Portugal?", "answer": "Lisbon" },
+      {
+        "question": "How many breaths does the human body take daily?",
+        "answer": "20,000 daily"
+      },
+      {
+        "question": "Who was Prime Minister of Great Britain from 1841 to 1846?",
+        "answer": "Robert Peel"
+      },
+      { "question": "What is the chemical symbol for silver?", "answer": "Ag" },
+      {
+        "question": "Who invented Cat’s Eyes in 1934 to improve road safety?",
+        "answer": "Percy Shaw"
+      },
+      {
+        "question": "What is the world’s smallest bird?",
+        "answer": "Bee Hummingbird"
+      },
+      {
+        "question": "Who played ‘Bodie’ and ‘Doyle’ in The Professionals?",
+        "answer": "Lewis Collins and Martin Shaw"
+      },
+      {
+        "question": "What is the doll, Barbie’s, full name?",
+        "answer": "Barbara Millicent Roberts"
+      },
+      {
+        "question": "What does Paul Hunn hold the record for, which registered at 118.1 decibels?",
+        "answer": "The loudest burp"
+      },
+      {
+        "question": "What did Al Capone’s business card state his occupation was?",
+        "answer": "A used furniture salesman"
+      },
+      {
+        "question": "What is the lifespan of a dragonfly?",
+        "answer": "24 hours"
+      },
+      {
+        "question": "Which year was the first Tonka truck made – 1945, 1947 or 1949?",
+        "answer": "1947"
+      },
+      {
+        "question": "Who invented the tin can for preserving food in 1810?",
+        "answer": "Peter Durand"
+      }
+    ],
+    "films": [
+      {
+        "question": "In which year was The Godfather first released?",
+        "answer": "1972"
+      },
+      {
+        "question": "Which actor won the best actor Oscar for the films Philadelphia (1993) and Forrest Gump (1994)?",
+        "answer": "Tom Hanks"
+      },
+      {
+        "question": "How many self-referential cameos did Alfred Hitchcock make in his films from 1927-1976 – 33, 35 or 37?",
+        "answer": "37"
+      },
+      {
+        "question": "Which 1982 film was greatly accepted by film fans for its portrayal of the love between a young, fatherless suburban boy and a lost, benevolent and homesick visitor from another planet?",
+        "answer": "E.T. The Extra-Terrestrial"
+      },
+      {
+        "question": "Which actress played Mary Poppins in the 1964 film Mary Poppins?",
+        "answer": "Julie Andrews"
+      },
+      {
+        "question": "In which 1963 classic film did Charles Bronson appear?",
+        "answer": "The Great Escape"
+      },
+      {
+        "question": "In which 1995 film did Sandra Bullock play the character Angela Bennett – Wrestling Ernest Hemingway, The Net or 28 Days?",
+        "answer": "The Net"
+      },
+      {
+        "question": "Which New Zealand female director directed these films – In the Cut (2003), The Water Diary (2006) and Bright Star (2009)?",
+        "answer": "Jane Campion"
+      },
+      {
+        "question": "Which actor provided the voice for the character Nemo in the 2003 film Finding Nemo?",
+        "answer": "Alexander Gould"
+      },
+      {
+        "question": "Which prisoner dubbed ‘the most violent prisoner in Britain’ was the subject of a 2009 film?",
+        "answer": "Charles Bronson (the film was titled Bronson)"
+      },
+      {
+        "question": "What 2008 film starring Chritian Bale has this quote: “I believe whatever doesn’t kill you, simply makes you…stranger.”?",
+        "answer": "The Dark Knight"
+      },
+      {
+        "question": "American actress who played the part of Tokyo underworld boss O-Ren Ishii in KillBill Vol I & II",
+        "answer": "Lucy Liu"
+      },
+      {
+        "question": "In which film did Hugh Jackman star as a rival magician of the character played by Christian Bale?",
+        "answer": "The Prestige"
+      },
+      {
+        "question": "The film director, Frank Capra, famous for It’s a Wonderful Life, was born in which mediteranean country?",
+        "answer": "Italy"
+      },
+      {
+        "question": "Which British action actor played the part of Lee Christmas alongside Sylvester Stallone in the film The Expendables?",
+        "answer": "Jason Statham"
+      },
+      {
+        "question": "Which American actor starred alongside Kim Bassinger in the film 9½ Weeks?",
+        "answer": "Mickey Rourke"
+      },
+      {
+        "question": "Which former Doctor Who actress played the part of Nebula in ‘Avengers:Infinity War’?",
+        "answer": "Karen Gillan"
+      },
+      {
+        "question": "Who starred as Juno MacGuff opposite Michael Cera in the 2007 film Juno?",
+        "answer": "Ellen Page"
+      },
+      {
+        "question": "What is the name of the 2015 film about a frontiersman on a fur trading expedition in the 1820s and his fight for survival after being mauled by a bear?",
+        "answer": "The Revenant"
+      },
+      {
+        "question": "Which film starring Chris Hemsworth and Daniel Brühl, charts the formula 1 rivalry of James Hunt and Niki Lauda?",
+        "answer": "Rush"
+      }
+    ]
+  }
+}
